@@ -40,3 +40,4 @@ export default App;
 // 💡281. Section Overview
 // 💡282. Setting Up a New Project: "Fast React Pizza Co."
 // 💡283. Application Planning
+// 💡284. Setting Up a Professional File Structure
