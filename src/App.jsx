@@ -41,3 +41,4 @@ export default App;
 // 💡282. Setting Up a New Project: "Fast React Pizza Co."
 // 💡283. Application Planning
 // 💡284. Setting Up a Professional File Structure
+// 💡285. A New Way Of Implementing Routes
