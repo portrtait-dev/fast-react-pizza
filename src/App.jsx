@@ -46,3 +46,4 @@ export default App;
 
 // 💡287. Fetching Data With React Router "Loaders": Pizza Menu
 // 💡288. Displaying a Loading Indicator
+// 💡289. Handling Errors With Error Elements
