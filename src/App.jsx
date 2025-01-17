@@ -43,3 +43,5 @@ export default App;
 // 💡284. Setting Up a Professional File Structure
 // 💡285. A New Way Of Implementing Routes
 // 💡286. Building the App Layout
+
+// 💡287. Fetching Data With React Router "Loaders": Pizza Menu
