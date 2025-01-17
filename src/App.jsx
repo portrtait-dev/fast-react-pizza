@@ -45,3 +45,4 @@ export default App;
 // 💡286. Building the App Layout
 
 // 💡287. Fetching Data With React Router "Loaders": Pizza Menu
+// 💡288. Displaying a Loading Indicator
