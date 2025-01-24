@@ -64,3 +64,4 @@ export default App;
 // Section 23: [Optional] Tailwind CSS Crash Course: Styling the App
 // --------------------------------------------------
 // 💡293. Section Overview
+// 💡294. What is Tailwind CSS?
