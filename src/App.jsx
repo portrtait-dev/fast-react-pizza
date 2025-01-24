@@ -57,3 +57,10 @@ export default App;
 // 4/4. Write data + error handling
 // 💡291. Writing Data With React Router "Actions"
 // 💡292. Error Handling in Form Actions
+
+// --------------------------------------------------
+// --------------------------------------------------
+
+// Section 23: [Optional] Tailwind CSS Crash Course: Styling the App
+// --------------------------------------------------
+// 💡293. Section Overview
