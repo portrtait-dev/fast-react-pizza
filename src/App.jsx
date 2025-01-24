@@ -36,17 +36,24 @@ export default App;
 
 // Section 22: React Router With Data Loading (v6.4+) [281-292]
 // --------------------------------------------------
+
+// 1/4. Set up project
 // 💡279. Introduction to Part 4
 // 💡281. Section Overview
 // 💡282. Setting Up a New Project: "Fast React Pizza Co."
 // 💡283. Application Planning
 // 💡284. Setting Up a Professional File Structure
+
+// 2/4. Set up React Router
 // 💡285. A New Way Of Implementing Routes
 // 💡286. Building the App Layout
 
+// 3/4. Fetch data + error handling
 // 💡287. Fetching Data With React Router "Loaders": Pizza Menu
 // 💡288. Displaying a Loading Indicator
 // 💡289. Handling Errors With Error Elements
-
 // 💡290. Fetching Orders
+
+// 4/4. Write data + error handling
 // 💡291. Writing Data With React Router "Actions"
+// 💡292. Error Handling in Form Actions
