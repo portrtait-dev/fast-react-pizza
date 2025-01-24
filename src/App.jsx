@@ -65,3 +65,4 @@ export default App;
 // --------------------------------------------------
 // 💡293. Section Overview
 // 💡294. What is Tailwind CSS?
+// 💡295. Setting Up Tailwind CSS
