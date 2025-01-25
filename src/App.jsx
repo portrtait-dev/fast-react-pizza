@@ -67,3 +67,4 @@ export default App;
 // 💡294. What is Tailwind CSS?
 // 💡295. Setting Up Tailwind CSS
 // 💡296. Working With Color
+// 💡297. Styling Text
