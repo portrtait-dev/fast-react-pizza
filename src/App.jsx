@@ -69,3 +69,4 @@ export default App;
 // 💡296. Working With Color
 // 💡297. Styling Text
 // 💡298. The Box Model: Spacing, Borders, and Display
+// 💡299. Responsive Design
