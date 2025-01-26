@@ -81,3 +81,4 @@ export default App;
 // 💡307. Configuring Tailwind: Custom Font Family
 
 // 💡308. Styling the Menu
+// 💡309. Styling the Cart
