@@ -63,6 +63,8 @@ export default App;
 
 // Section 23: [Optional] Tailwind CSS Crash Course: Styling the App
 // --------------------------------------------------
+
+// 1/3. Tailwind setup + basics: 293-303
 // 💡293. Section Overview
 // 💡294. What is Tailwind CSS?
 // 💡295. Setting Up Tailwind CSS
@@ -75,12 +77,22 @@ export default App;
 // 💡302. Styling Buttons: Element States and Transitions
 // 💡303. Styling Form Elements
 
+// 2/3. Intermediate + Advanced topics: 304-307
 // 💡304. Reusing Styles With @apply
 // 💡305. Reusing Styles With React Components
 // 💡306. Absolute Positioning, z-index, and More
 // 💡307. Configuring Tailwind: Custom Font Family
 
+// 3/3. Style Components: 308-311
 // 💡308. Styling the Menu
 // 💡309. Styling the Cart
 // 💡310. Styling the Order Form
 // 💡311. Styling the Order Overview
+
+// --------------------------------------------------
+// --------------------------------------------------
+
+// Section 24: Adding Redux and Advanced React Router
+// --------------------------------------------------
+
+// 💡312. Section Overview
