@@ -6,11 +6,11 @@
 // 💡 281. Section Overview
 // 🛠️ 282. Setting Up a New Project: "Fast React Pizza Co."
 // 💡283. Application Planning
-// 💡284. Setting Up a Professional File Structure
+// 🛠️💡284. Setting Up a Professional File Structure
 
 // 2/4. Set up React Router
-// 💡285. A New Way Of Implementing Routes
-// 💡286. Building the App Layout
+// 🛠️💡285. A New Way Of Implementing Routes
+// 🛠️💡286. Building the App Layout
 
 // 3/4. Fetch data + error handling
 // 💡287. Fetching Data With React Router "Loaders": Pizza Menu
