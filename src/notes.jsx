@@ -15,7 +15,7 @@
 // 3/4. Fetch data + error handling
 // 🛠️💡287. Fetching Data With React Router "Loaders": Pizza Menu
 // 🛠️💡288. Displaying a Loading Indicator
-// 💡289. Handling Errors With Error Elements
+// 🛠️💡289. Handling Errors With Error Elements
 // 💡290. Fetching Orders
 
 // 4/4. Write data + error handling
