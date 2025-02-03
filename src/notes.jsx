@@ -67,3 +67,4 @@
 // 💡317. Building the Cart Overview With Redux Selectors
 // 💡318. Building the Cart Page
 // 💡319. Deleting Cart Items
+// 💡320. Updating Cart Quantities
