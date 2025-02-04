@@ -59,8 +59,11 @@
 // Section 24: Adding Redux and Advanced React Router
 // --------------------------------------------------
 
+// 1/3. User State: 313-314
 // 💡312. Section Overview
 // 💡313. Modeling the "User" State With Redux Toolkit
+
+// 2/3. Cart State + Order: 315-321
 // 💡314. Reading and Updating the User State
 // 💡315. Modeling the "Cart" State
 // 💡316. Adding Menu Items to the Cart
@@ -69,5 +72,8 @@
 // 💡319. Deleting Cart Items
 // 💡320. Updating Cart Quantities
 // 💡321. Using the Cart for New Orders
+
+// 3/3. Others: 322-325 (geolocation with Thunks, fetch/update data without navigation)
 // 💡322. Redux Thunks With createAsyncThunk
 // 💡323. Integrating Geolocation
+// 💡324. Fetching Data Without Navigation: useFetcher
