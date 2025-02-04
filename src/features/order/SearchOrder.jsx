@@ -9,7 +9,6 @@ function SearchOrder() {
   function handleSubmit(e) {
     e.preventDefault();
     if (!query) return;
-    1;
     navigate(`/order/${query}`);
     setQuery("");
   }

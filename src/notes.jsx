@@ -16,7 +16,7 @@
 // 🛠️💡287. Fetching Data With React Router "Loaders": Pizza Menu
 // 🛠️💡288. Displaying a Loading Indicator
 // 🛠️💡289. Handling Errors With Error Elements
-// 💡290. Fetching Orders
+// 🛠️💡290. Fetching Orders
 
 // 4/4. Write data + error handling
 // 💡291. Writing Data With React Router "Actions"
@@ -77,3 +77,4 @@
 // 💡322. Redux Thunks With createAsyncThunk
 // 💡323. Integrating Geolocation
 // 💡324. Fetching Data Without Navigation: useFetcher
+// 💡325. Updating Data Without Navigation
