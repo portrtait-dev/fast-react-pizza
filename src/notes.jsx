@@ -2,10 +2,10 @@
 // --------------------------------------------------
 
 // 1/4. Set up project
-// 💡 279. Introduction to Part 4
-// 💡 281. Section Overview
-// 🛠️ 282. Setting Up a New Project: "Fast React Pizza Co."
-// 💡283. Application Planning
+// 💡💡279. Introduction to Part 4
+// 💡💡281. Section Overview
+// 🛠️💡282. Setting Up a New Project: "Fast React Pizza Co."
+// 💡💡283. Application Planning
 // 🛠️💡284. Setting Up a Professional File Structure
 
 // 2/4. Set up React Router
@@ -20,7 +20,7 @@
 
 // 4/4. Write data + error handling
 // 🛠️💡291. Writing Data With React Router "Actions"
-// 💡292. Error Handling in Form Actions
+// 🛠️💡292. Error Handling in Form Actions
 
 // --------------------------------------------------
 // --------------------------------------------------
@@ -29,9 +29,9 @@
 // --------------------------------------------------
 
 // 1/3. Tailwind setup + basics: 293-303
-// 💡293. Section Overview
-// 💡294. What is Tailwind CSS?
-// 💡295. Setting Up Tailwind CSS
+// 💡💡293. Section Overview
+// 💡💡294. What is Tailwind CSS?
+// 🛠️💡295. Setting Up Tailwind CSS
 // 💡296. Working With Color
 // 💡297. Styling Text
 // 💡298. The Box Model: Spacing, Borders, and Display
