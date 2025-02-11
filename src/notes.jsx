@@ -35,7 +35,7 @@
 // 🛠️💡296. Working With Color
 // 🛠️💡297. Styling Text
 // 🛠️💡298. The Box Model: Spacing, Borders, and Display
-// 💡299. Responsive Design
+// 🛠️💡299. Responsive Design
 // 💡300. Using Flexbox
 // 💡301. Using CSS Grid
 // 💡302. Styling Buttons: Element States and Transitions
