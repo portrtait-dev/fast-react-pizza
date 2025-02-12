@@ -38,7 +38,7 @@
 // 🛠️💡299. Responsive Design
 // 🛠️💡300. Using Flexbox
 // 🛠️💡301. Using CSS Grid
-// 💡302. Styling Buttons: Element States and Transitions
+// 🛠️💡302. Styling Buttons: Element States and Transitions
 // 💡303. Styling Form Elements
 
 // 2/3. Intermediate + Advanced topics: 304-307
