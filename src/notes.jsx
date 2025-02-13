@@ -44,7 +44,7 @@
 // 2/3. Intermediate + Advanced topics: 304-307
 // 🛠️💡304. Reusing Styles With @apply
 // 🛠️💡305. Reusing Styles With React Components
-// 💡306. Absolute Positioning, z-index, and More
+// 🛠️💡306. Absolute Positioning, z-index, and More
 // 💡307. Configuring Tailwind: Custom Font Family
 
 // 3/3. Style Components: 308-311
