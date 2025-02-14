@@ -49,7 +49,7 @@
 
 // 3/3. Style Components: 308-311
 // 🛠️💡308. Styling the Menu
-// 💡309. Styling the Cart
+// 🛠️💡309. Styling the Cart
 // 💡310. Styling the Order Form
 // 💡311. Styling the Order Overview
 
