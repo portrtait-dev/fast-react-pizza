@@ -62,10 +62,10 @@
 // 1/3. User State: 313-314
 // 💡💡 312. Section Overview
 // 🛠️💡 313. Modeling the "User" State With Redux Toolkit
-// 💡314. Reading and Updating the User State
+// 🛠️💡 314. Reading and Updating the User State
 
 // 2/3. Cart State + Order: 315-321
-// 💡315. Modeling the "Cart" State
+// 🛠️💡 315. Modeling the "Cart" State
 // 💡316. Adding Menu Items to the Cart
 // 💡317. Building the Cart Overview With Redux Selectors
 // 💡318. Building the Cart Page
