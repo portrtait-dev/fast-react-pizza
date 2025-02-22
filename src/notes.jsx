@@ -66,8 +66,8 @@
 
 // 2/3. Cart State + Order: 315-321
 // 🛠️💡 315. Modeling the "Cart" State
-// 💡316. Adding Menu Items to the Cart
-// 💡317. Building the Cart Overview With Redux Selectors
+// 🛠️💡 316. Adding Menu Items to the Cart
+// 🛠️💡 317. Building the Cart Overview With Redux Selectors
 // 💡318. Building the Cart Page
 // 💡319. Deleting Cart Items
 // 💡320. Updating Cart Quantities
