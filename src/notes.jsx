@@ -71,10 +71,10 @@
 // 🛠️💡 318. Building the Cart Page
 // 🛠️💡 319. Deleting Cart Items
 // 🛠️💡 320. Updating Cart Quantities
-// 💡321. Using the Cart for New Orders
+// 🛠️💡321. Using the Cart for New Orders
 
 // 3/3. Others: 322-325 (geolocation with Thunks, fetch/update data without navigation)
-// 💡322. Redux Thunks With createAsyncThunk
+// 🛠️💡322. Redux Thunks With createAsyncThunk
 // 💡323. Integrating Geolocation
 // 💡324. Fetching Data Without Navigation: useFetcher
 // 💡325. Updating Data Without Navigation
