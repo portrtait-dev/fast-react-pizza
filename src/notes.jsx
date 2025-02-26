@@ -76,7 +76,7 @@
 // 3/3. Others: 322-325 (geolocation with Thunks, fetch/update data without navigation)
 // 🛠️💡 322. Redux Thunks With createAsyncThunk
 // 🛠️💡 323. Integrating Geolocation
-// 💡324. Fetching Data Without Navigation: useFetcher
+// 🛠️💡 324. Fetching Data Without Navigation: useFetcher
 // 💡325. Updating Data Without Navigation
 
 // --------------------------------------------------
